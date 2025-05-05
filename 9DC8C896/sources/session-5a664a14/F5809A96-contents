@@ -1,0 +1,23 @@
+---
+title: "hobbies"
+format: html
+editor: visual
+---
+
+
+:::{#ppc}
+
+I am proficient in cooking.
+
+![I like cooking because I enjoed the creation of different flavors using simple ingredients. Also, cooking on my own allows me to keep fit by following a whole-food based diet. I like the fresh taste of baby broccoli and avacado. ](cooking.jpg)
+
+I am a beginner in rock climbing.
+
+![I like rock climbing because it is fulfilling and challenges me physically and mentally.](rockclimbing.jpg)
+
+
+I have been learning photography for one year.
+
+![I like photography because it is a great way to preserve exciting momories during travelling. Whenever I look back at them, I can immediate recall the feelings I had during the trip.](photography.jpg)
+
+:::
